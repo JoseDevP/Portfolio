@@ -20,7 +20,7 @@ I prefer to work in an environment where every individual is respected and colla
 
 ## C#
 ### Concepts
-#### [Concepts](https://github.com/JoseDevP/Programming)
+#### [Concepts](https://github.com/JoseDevP/Programming/C#)
 ### Exercises
 #### [Excercises](https://github.com/JoseDevP/Programming/C#/Exercises)
 ### ASP.NET
