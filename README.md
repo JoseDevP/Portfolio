@@ -20,11 +20,11 @@ I prefer to work in an environment where every individual is respected and colla
 
 ## C#
 ### Concepts
-#### [Concepts](https://github.com/JoseDevP/Programming/C#)
+#### [Concepts](https://github.com/JoseDevP/Programming/CS/Concepts/csBasico)
 ### Exercises
-#### [Excercises](https://github.com/JoseDevP/Programming/C#/Exercises)
+#### [Excercises](https://github.com/JoseDevP/Programming/CS/Exercises)
 ### ASP.NET
-#### [ASP.NET](https://github.com/JoseDevP/Programming/C#/Concepts/ASP_NET_CORE)
+#### [ASP.NET](https://github.com/JoseDevP/Programming/CS/Concepts/ASP_NET_CORE)
 
 ## Unity
 ### Projects
