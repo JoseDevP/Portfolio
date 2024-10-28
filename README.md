@@ -10,11 +10,12 @@ I am a software developer with experience in C# and .NET, passionate about build
 - C++
 - C
 
-## Projects
-### [Project 1](https://github.com/username/project1)
+## C#
+### Projects
+#### [Project 1](https://github.com/username/project1)
 Brief description of Project 1.
 
-### [Project 2](https://github.com/username/project2)
+#### [Project 2](https://github.com/username/project2)
 Brief description of Project 2.
 
 ## Contact
