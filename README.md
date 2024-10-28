@@ -19,13 +19,9 @@ I prefer to work in an environment where every individual is respected and colla
 - C
 
 ## C#
-//### Projects
-#### [Project 1](https://github.com/username/project1)
-Brief description of Project 1.
-
 ### Exercises
 #### [Excercises](https://github.com/JoseDevP/C#/Exercises)
-Brief description of Project 1.
+Algorithms
 
 ## C++
 ### Projects
