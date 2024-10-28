@@ -22,9 +22,9 @@ I prefer to work in an environment where every individual is respected and colla
 ### Concepts
 #### [Concepts](https://github.com/JoseDevP/Programming/tree/main/CS/Concepts)
 ### Exercises
-#### [Excercises](https://github.com/JoseDevP/Programming/CS/Exercises)
+#### [Excercises](https://github.com/JoseDevP/Programming/tree/main/CS/Exercise)
 ### ASP.NET
-#### [ASP.NET](https://github.com/JoseDevP/Programming/CS/Concepts/ASP_NET_CORE)
+#### [ASP.NET](https://github.com/JoseDevP/Programming/tree/main/CS/ASP_NET_CORE)
 
 ## Unity
 ### Projects
