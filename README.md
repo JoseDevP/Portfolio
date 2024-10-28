@@ -14,6 +14,7 @@ I prefer to work in an environment where every individual is respected and colla
 - ASP.NET Core
 - APIS RESTfull
 - SQL
+- UNITY
 - C++
 - C
 
@@ -28,9 +29,6 @@ Brief description of Project 2.
 ### Exercises
 #### [Excercises](https://github.com/JoseDevP/C#/Exercises)
 Brief description of Project 1.
-
-#### [Project 2](https://github.com/username/project2)
-Brief description of Project 2.
 
 ## C++
 ### Projects
