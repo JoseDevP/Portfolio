@@ -18,6 +18,45 @@ Brief description of Project 1.
 #### [Project 2](https://github.com/username/project2)
 Brief description of Project 2.
 
+### Exercises
+#### [Project 1](https://github.com/username/project1)
+Brief description of Project 1.
+
+#### [Project 2](https://github.com/username/project2)
+Brief description of Project 2.
+
+## C++
+### Projects
+#### [Project 1](https://github.com/username/project1)
+Brief description of Project 1.
+
+#### [Project 2](https://github.com/username/project2)
+Brief description of Project 2.
+
+### Exercises
+#### [Project 1](https://github.com/username/project1)
+Brief description of Project 1.
+
+#### [Project 2](https://github.com/username/project2)
+Brief description of Project 2.
+
+
+## C
+### Projects
+#### [Project 1](https://github.com/username/project1)
+Brief description of Project 1.
+
+#### [Project 2](https://github.com/username/project2)
+Brief description of Project 2.
+
+### Exercises
+#### [Project 1](https://github.com/username/project1)
+Brief description of Project 1.
+
+#### [Project 2](https://github.com/username/project2)
+Brief description of Project 2.
+
+
 ## Contact
 - Email: jose.cazorla.sanchez.dev@gmail.com
 - LinkedIn: [your profile](www.linkedin.com/in/jose-cazorla-sanchez-028073291)
