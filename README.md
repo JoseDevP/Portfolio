@@ -26,7 +26,7 @@ Brief description of Project 1.
 Brief description of Project 2.
 
 ### Exercises
-#### [Project 1](https://github.com/username/project1)
+#### [Excercises](https://github.com/JoseDevP/Exercises)
 Brief description of Project 1.
 
 #### [Project 2](https://github.com/username/project2)
