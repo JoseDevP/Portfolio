@@ -20,8 +20,8 @@ I prefer to work in an environment where every individual is respected and colla
 
 ## C#
 ### Projects
-#### BeerShop API With Controllers & EntityFramework
-[BeerShop API With Controllers & EntityFramework](https://github.com/JoseDevP/Programming/tree/main/CS/ASP_NET_CORE&Entity_Framework/APIMVCEntityFramework)
+#### BeerShop API With Controllers & EntityFramework 
+[BeerShop API With Controllers & EntityFramework](https://github.com/JoseDevP/Programming/tree/main/CS/ASP_NET_CORE&Entity_Framework/API MVC EntityFramework)
 ### Concepts
 #### [Concepts](https://github.com/JoseDevP/Programming/tree/main/CS/Concepts)
 ### Exercises
