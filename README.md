@@ -22,6 +22,8 @@ I prefer to work in an environment where every individual is respected and colla
 ### Projects
 #### BeerShop 
 [BeerShop API With Controllers & EntityFramework](https://github.com/JoseDevP/Programming/tree/main/CS/ASP_NET_CORE&Entity_Framework/API_MVC_EntityFramework)
+#### CRUD MVC 
+[CRUD MVC ](https://github.com/JoseDevP/Programming/tree/main/CS/ASP_NET_CORE%26Entity_Framework/CRUDMVC/CRUDMVC8)
 ### Concepts
 #### [Concepts](https://github.com/JoseDevP/Programming/tree/main/CS/Concepts)
 ### Exercises
