@@ -22,6 +22,8 @@ I prefer to work in an environment where every individual is respected and colla
 ### Projects
 #### BeerAPI (Clean Arquitecture)
 [API With Controllers & EntityFramework Clean Arquitecture](https://github.com/JoseDevP/Programming/tree/main/CS/ASP_NET_CORE&Entity_Framework/API_MVC_EntityFramework)
+#### BLOGCORE MVC 
+[BLOGCORE MVC  ](https://github.com/JoseDevP/Programming/tree/main/CS/ASP_NET_CORE%26Entity_Framework/BlogCore/BlogCore)
 #### CRUD MVC 
 [CRUD MVC ](https://github.com/JoseDevP/Programming/tree/main/CS/ASP_NET_CORE%26Entity_Framework/CRUDMVC/CRUDMVC8)
 ### Concepts
